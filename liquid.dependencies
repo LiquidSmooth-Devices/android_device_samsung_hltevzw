@@ -1,8 +1,0 @@
-[
-  {
-    "remote": "lsd",
-    "repository": "android_device_samsung_hlte-common",
-    "target_path": "device/samsung/hlte-common"
-    "revision": "kitkat"
-  }
-]
